@@ -4,6 +4,8 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/edson-salzano-a68bb51a9/)
 
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=juniorsalzano&theme=dark)](https://git.io/streak-stats)
+
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=juniorsalzano&show_icons=true&theme=radical)
 
 ### Tecnologias que eu uso no meu dia
@@ -29,14 +31,15 @@
   <img aling="center" alt="html5" src="https://img.shields.io/badge/Jest-323330?style=for-the-badge&logo=Jest&logoColor=white"/>
 </div><br/>
 
-
 <h3><b>Apaixonado por tecnologia e motivado por desafios.</b></h3> <br/>
 
 <div>
   <a href="https://github.com/juniorsalzano/github-readme-stats">
     <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=juniorsalzano" />
-  </a>
+  </a><br/> <br/>
   <a href="https://github.com/juniorsalzano/convoychat">
     <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=juniorsalzano&layout=compact&langs_count=8&card_width=320" />
   </a>
-</div>
+</div><br/>
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=juniorsalzano&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
