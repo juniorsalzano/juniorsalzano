@@ -29,6 +29,9 @@
   <img aling="center" alt="html5" src="https://img.shields.io/badge/Jest-323330?style=for-the-badge&logo=Jest&logoColor=white"/>
 </div><br/>
 
+
+<h3><b>Apaixonado por tecnologia e motivado por desafios.</b></h3> <br/>
+
 <div>
   <a href="https://github.com/juniorsalzano/github-readme-stats">
     <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=juniorsalzano" />
