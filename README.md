@@ -1,10 +1,13 @@
 ### Olá! Eu sou o Junior Salzano ✋
-[![WebSite](https://img.shields.io/website-up-down-green-red/http/monip.org.svg)](https://juniorsalzano.dev)
+
+- Visite meu site [juniorsalzano.dev](https://juniorsalzano.dev)
+
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/edson-salzano-a68bb51a9/)
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=juniorsalzano&show_icons=true&theme=radical)
 
 ### Tecnologias que eu uso no meu dia
+
 <div style="display: inline_block"><br/>
   <img aling="center" alt="html5" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
   <img aling="center" alt="html5" src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white"/>
@@ -24,4 +27,13 @@
   <img aling="center" alt="html5" src="https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white"/>
   <img aling="center" alt="html5" src="https://img.shields.io/badge/Microsoft_Azure-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white"/>
   <img aling="center" alt="html5" src="https://img.shields.io/badge/Jest-323330?style=for-the-badge&logo=Jest&logoColor=white"/>
+</div><br/>
+
+<div>
+  <a href="https://github.com/juniorsalzano/github-readme-stats">
+    <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=juniorsalzano" />
+  </a>
+  <a href="https://github.com/juniorsalzano/convoychat">
+    <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=juniorsalzano&layout=compact&langs_count=8&card_width=320" />
+  </a>
 </div>
