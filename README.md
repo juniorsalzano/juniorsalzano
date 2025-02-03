@@ -4,8 +4,6 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/edson-salzano-a68bb51a9/)
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=juniorsalzano&theme=dark)](https://git.io/streak-stats)
-
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=juniorsalzano&show_icons=true&theme=radical)
 
 ### Tecnologias que eu uso no meu dia
