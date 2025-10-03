@@ -1,7 +1,7 @@
 ### Olá! Eu sou o Junior Salzano ✋
 
 - Visite meu site [juniorsalzano.dev](https://juniorsalzano.dev)
-- 
+  
 <div>
   <img src="https://raw.githubusercontent.com/l5n0/l5n0/output/snake.svg" alt="Snake animation">
 </div>
