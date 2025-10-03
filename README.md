@@ -1,6 +1,10 @@
 ### Olá! Eu sou o Junior Salzano ✋
 
 - Visite meu site [juniorsalzano.dev](https://juniorsalzano.dev)
+- 
+<div>
+  <img src="https://raw.githubusercontent.com/l5n0/l5n0/output/snake.svg" alt="Snake animation">
+</div>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/edson-salzano-a68bb51a9/)
 
